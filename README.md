@@ -1,2 +1,3 @@
-# advanced-datastructures-and-algorithms
-Report collection from taking http://www2.compute.dtu.dk/courses/02282/2015/
+Collection of material about me. E.g. reports from courses I have taken.
+
+Find out more at alrojo.github.io/about
